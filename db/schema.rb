@@ -10,10 +10,10 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2021_05_21_170719) do
+ActiveRecord::Schema.define(version: 2021_05_21_190007) do
 
   create_table "polls", force: :cascade do |t|
-    t.text "title"
+    t.text "title", null: false
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
   end
