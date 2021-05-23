@@ -15,7 +15,6 @@ class ApplicationController < ActionController::Base
             render status: :unauthorized, json: { errors: [t('session.could_not_auth')] }
         end
     end
-      
     
       private
         def current_user
