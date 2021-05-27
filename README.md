@@ -1,24 +1,6 @@
-# README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# [Polly](https://pollyapp-bigbinary.herokuapp.com/)
 
-Things you may want to cover:
+### Crate and vote polls with this app.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+##### Please check the deployment here - https://pollyapp-bigbinary.herokuapp.com/
