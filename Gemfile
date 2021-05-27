@@ -56,3 +56,5 @@ gem 'react-rails'
 gem 'bcrypt', '~> 3.1.13'
 gem 'sqlite3', '~> 1.4', :group => [:development, :test]
 gem 'pg', :group => [:production]
+gem 'bundler-audit', require: false
+gem 'ruby_audit', require: false
